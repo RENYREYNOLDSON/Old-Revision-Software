@@ -1,0 +1,22 @@
+What is a bus?,Set of parallel wires connecting components
+What does a bus request do?,Shows a device is requesting to use the data bus
+What does a bus grant do?,Indicates the CPU has given access to the data bus
+Von Neuman Architecture,Same data bus used for data and instructions
+Harvard Architecture,Physically seperate memories for data and instructions
+CISC,complex instruction set computers
+RISC,reduced instruction set computers
+LCD Monitors,"Groups of r,g,b diodes to form each pixel. Backlit with LED's"
+OLED Screens,"Plastic, thin screens with no backlight"
+Laser Printers,High quality/speed using powdered ink called Toner
+Dot Matrix Printers,print head has matrix of pins which strike through inked ribbon
+Actuators,Motors often used in conjunction with sensors
+HTML,hypertext markup language
+CSS,cascade style sheets
+What is a CSS identifier used for?,used for unique elements
+How are CSS classes used?,used multiple times on a webpage
+What do webforms do?,"Allow websites to collect, validate and use the user data"
+What is Javascript?,script language used to add interactivity to websites
+"What do the address,data and conrol bus form?",system bus
+Arithmetic-Logic Unit:,Performs arithemtic and logic operations on data
+BRP,branch if positive or zero
+<div>,divides page into different styles
